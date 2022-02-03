@@ -2,7 +2,7 @@
 title = "AMD"
 +++
 
-![Example image](/hugo/AMD.jpg)
+![Example image](./AMD.jpg)
 
 Advanced Micro Devices, Inc. (AMD) es una compañía estadounidense de semiconductores con sede en Santa Clara, California, que desarrolla procesadores de computación y productos tecnológicos similares de consumo. Sus productos principales incluyen microprocesadores, chipsets para placas base, circuitos integrados auxiliares, procesadores embebidos y procesadores gráficos para servidores, estaciones de trabajo, computadores personales y aplicaciones para sistemas embebidos.
 
