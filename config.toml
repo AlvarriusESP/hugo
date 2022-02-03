@@ -31,8 +31,8 @@ theme = 'tema'
       [[languages.en.menu.main]]
         identifier = "about"
         name = "NVIDIA"
-        url = "./NVIDIA"
+        url = "/NVIDIA"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "AMD"
-        url = "./amd"
+        url = "/amd"
