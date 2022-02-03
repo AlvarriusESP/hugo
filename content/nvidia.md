@@ -2,7 +2,7 @@
 title = "NVIDIA"
 +++
 
-![Example image](/nvidia.jpg)
+![Example image](/hugo/nvidia.jpg)
 
 Nvidia Corporation es una empresa multinacional especializada en el desarrollo de unidades de procesamiento gráfico y tecnologías de circuitos integrados para estaciones de trabajo, ordenadores personales y dispositivos móviles. Con sede en Santa Clara, California,3​ la compañía se ha convertido en uno de los principales proveedores de circuitos integrados (CI), como unidades de procesamiento gráfico (GPU) y conjuntos de chips usados en tarjetas gráficas para consolas y tarjetas madre para PC.
 
