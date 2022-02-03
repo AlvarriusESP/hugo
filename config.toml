@@ -2,7 +2,7 @@ baseURL = 'https://alvarriusesp.github.io/hugo/'
 languageCode = 'es'
 title = 'LOQUETES PC'
 theme = 'tema'
-
+ 
 [languages]
   [languages.es]
     title = "LOQUETES PC"
