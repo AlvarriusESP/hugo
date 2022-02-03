@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://alvarriusesp.github.io/hugo/'
 languageCode = 'es'
 title = 'LOQUETES PC'
 theme = 'tema'
