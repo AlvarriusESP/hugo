@@ -21,7 +21,7 @@ theme = 'tema'
 
     [languages.en.params.logo]
       logoText = "LOQUETES PC"
-      logoHomeLink = "/"
+      logoHomeLink = "/hugo"
     # or
     #
     # path = "/img/your-example-logo.svg"
