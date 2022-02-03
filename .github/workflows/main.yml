@@ -24,8 +24,6 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.ref == 'refs/heads/main' }}
-        with:
-          github_token: ${{ secrets.HUGO2 }}
-          publish_dir: ./public
-
-          #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
+      with:
+        github_token: ${{ secrets.HUGO2 }}
+        publish_dir: ./public
